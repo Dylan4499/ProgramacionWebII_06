@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\roomclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\roleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\roleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\seatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\seatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\paymentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\paymentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\offerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\offerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\hotelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\hotelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\flyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\flyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\activityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\activityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\controllers\\hotelclientviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\controllers\\hotelclientviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\models\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\models\\clientclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\views\\home\\hoteles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\views\\home\\hoteles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\views\\home\\detallehotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\views\\home\\detallehotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|c:\\users\\pici\\source\\repos\\agenciadeviajesv2\\agenciadeviajesv2\\agenciadeviajesv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41BF5DB2-AA8F-4CF2-8EA3-F89FF2F8611B}|agenciaDeViajesV2\\agenciaDeViajesV2.csproj|solutionrelative:agenciadeviajesv2\\agenciadeviajesv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\RoleClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\RoleClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\RoleClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\RoleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:06:41.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\SeatClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\SeatClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\SeatClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\SeatClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:56:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\UserClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\UserClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\UserClass.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:53:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\PaymentClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\PaymentClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\PaymentClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\PaymentClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:39:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\RoomClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\RoomClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\RoomClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\RoomClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:07:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfferClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\OfferClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\OfferClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\OfferClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\OfferClass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:17:29.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\HotelClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\HotelClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\HotelClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\HotelClass.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:02:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlyClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\FlyClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\FlyClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\FlyClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\FlyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:06:30.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivityClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\ActivityClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\ActivityClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\ActivityClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\ActivityClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:11:57.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HotelClientViewController.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Controllers\\HotelClientViewController.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Controllers\\HotelClientViewController.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Controllers\\HotelClientViewController.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Controllers\\HotelClientViewController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:15:17.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:47:52.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientClass.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\ClientClass.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Models\\ClientClass.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Models\\ClientClass.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Models\\ClientClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:05:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "agenciaDeViajesV2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:08:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "agenciaDeViajesV2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T01:57:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Shared\\dashboard.cshtml",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Views\\Shared\\dashboard.cshtml",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Shared\\dashboard.cshtml",
+              "RelativeToolTip": "agenciaDeViajesV2\\Views\\Shared\\dashboard.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T02:35:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:49:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hoteles.cshtml",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Home\\Hoteles.cshtml",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Views\\Home\\Hoteles.cshtml",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Home\\Hoteles.cshtml",
+              "RelativeToolTip": "agenciaDeViajesV2\\Views\\Home\\Hoteles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T20:19:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetalleHotel.cshtml",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Home\\DetalleHotel.cshtml",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Views\\Home\\DetalleHotel.cshtml",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Views\\Home\\DetalleHotel.cshtml",
+              "RelativeToolTip": "agenciaDeViajesV2\\Views\\Home\\DetalleHotel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T23:06:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Program.cs",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\Program.cs",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\Program.cs",
+              "RelativeToolTip": "agenciaDeViajesV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:15:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\appsettings.json",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\appsettings.json",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\appsettings.json",
+              "RelativeToolTip": "agenciaDeViajesV2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T03:10:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "agenciaDeViajesV2.csproj",
+              "DocumentMoniker": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\agenciaDeViajesV2.csproj",
+              "RelativeDocumentMoniker": "agenciaDeViajesV2\\agenciaDeViajesV2.csproj",
+              "ToolTip": "C:\\Users\\PiCi\\source\\repos\\agenciaDeViajesV2\\agenciaDeViajesV2\\agenciaDeViajesV2.csproj",
+              "RelativeToolTip": "agenciaDeViajesV2\\agenciaDeViajesV2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T17:32:24.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

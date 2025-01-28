@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Detalles del Hotel";
+}
+
+@model HotelClass
+
+<style>
+    .hotel-info {
+        border: 1px solid #ccc; /* Borde gris claro */
+        padding: 15px; /* Espacio interno */
+        margin-bottom: 20px; /* Margen inferior */
+        border-radius: 5px; /* Bordes redondeados */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    }
+
+        .hotel-info h2 {
+            margin-top: 0; /* Elimina el margen superior predeterminado del h2 */
+            color: #333; /* Color de texto más oscuro */
+        }
+
+        .hotel-info img {
+            display: block; /* Para que la imagen se comporte como un bloque y respete los márgenes */
+            margin: 10px auto; /* Centra la imagen horizontalmente */
+        }
+
+        .hotel-info p {
+            margin-bottom: 5px;
+        }
+
+        .hotel-info strong {
+            font-weight: bold;
+        }
+
+    .action-buttons {
+        margin-top: 20px;
+    }
+
+        .action-buttons button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+
+        .action-buttons .btn-reservar {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+        .action-buttons .btn-comprar {
+            background-color: #007bff;
+            color: #fff;
+        }
+</style>
+
+<div class="hotel-info">
+    <h2>@Model.hotelName</h2>
+    <img src="@Model.imageHotel" alt="@Model.hotelName" style="max-width: 300px; max-height: 200px;" />
+    <p><strong>Ubicación:</strong> @Model.addressAt</p>
+    <p><strong>Estrellas:</strong> @Model.stars</p>
+</div>
+
+<div class="action-buttons">
+    <button class="btn-reservar" onclick="reservarHotel()">Reservar</button>
+    <button class="btn-comprar" onclick="comprarHotel()">Comprar</button>
+</div>
+
+<div class="footer">
+    <p>&copy; @DateTime.Now.Year Agencia de Viajes. Todos los derechos reservados.</p>
+</div>
+
+<script>
+    function comprarHotel() {
+        if (confirm("¿Desea comprar este hotel?")) {
+            alert("¡Has comprado el hotel con éxito!");
+        } else {
+            alert("Compra cancelada.");
+        }
+    }
+
+    function reservarHotel() {
+        if (confirm("¿Desea reservar este hotel?")) {
+            alert("¡El hotel ha sido reservado con éxito!");
+        } else {
+            alert("Reserva cancelada.");
+        }
+    }
+</script>

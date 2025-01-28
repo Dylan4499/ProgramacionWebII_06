@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Hoteles";
+}
+@model IEnumerable<HotelClass>
+<style>
+    .container-hoteles {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+    }
+
+    .hotel-card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .hotel-img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .hotel-info {
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+
+    .detalle-btn {
+        background-color: #0056b2;
+        color: #fff;
+        border: none;
+        padding: 12px 25px;
+        border-radius: 8px;
+    }
+</style>
+
+<div class="container-hoteles">
+    <h1>@ViewData["Title"]</h1>
+    <div class="hoteles-grid">
+        @foreach (var hotel in Model)
+        {
+            <div class="hotel-card">
+                @if (!string.IsNullOrEmpty(hotel.imageHotel))
+                {
+                    <img src="@hotel.imageHotel" alt="@hotel.hotelName" class="hotel-img" />
+                }
+                <div class="hotel-info">
+                    <h3>
+                        <a asp-action="DetalleHotel" asp-route-id="@hotel.PK_hotel" style="color: #0078D7; text-decoration: none;">
+                            @hotel.hotelName
+                        </a>
+                    </h3>
+                    <p><strong>Ubicación:</strong> @hotel.addressAt</p>
+                    <p><strong>Estrellas:</strong> @hotel.stars</p>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="footer">
+    <p>&copy; @DateTime.Now.Year Agencia de Viajes. Todos los derechos reservados.</p>
+</div>

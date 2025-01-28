@@ -1,0 +1,65 @@
+@model IEnumerable<agenciaDeViajesV2.Models.PaymentClass>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.totalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.paymentMethod)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.createdAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.updatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.states)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Offer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.totalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.paymentMethod)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.createdAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.updatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.states)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Offer.Destiny)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PK_payment">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PK_payment">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PK_payment">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

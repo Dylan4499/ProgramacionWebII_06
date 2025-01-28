@@ -1,0 +1,60 @@
+@model agenciaDeViajesV2.Models.SeatClass
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>SeatClass</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.seatNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.seatNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.reserState)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.reserState)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.createdAt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.createdAt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.updatedAt)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.updatedAt)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.states)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.states)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Fly)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Fly.airline)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Offer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Offer.Destiny)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PK_seat">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
